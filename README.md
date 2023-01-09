@@ -1,24 +1,11 @@
-# project5-shopping-bag-finished
+# shopping bag project
 
 ## Project setup
 ```
-yarn install
+In the terminal, run npm i to install project packages.
 ```
 
-### Compiles and hot-reloads for development
+### Project output
 ```
-yarn serve
+To see project ouput, run npm run serve in the terminal.
 ```
-
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
