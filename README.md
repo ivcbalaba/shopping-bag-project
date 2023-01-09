@@ -1,4 +1,4 @@
-# shopping bag project
+# Shopping Bag Project
 
 ### Project setup <br />
 In the terminal, run ```npm i``` to install project packages.
