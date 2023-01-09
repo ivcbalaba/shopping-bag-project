@@ -1,11 +1,9 @@
 # shopping bag project
 
-## Project setup
-```
-In the terminal, run npm i to install project packages.
-```
+### Project setup <br />
+In the terminal, run ```npm i``` to install project packages.
+<br />
+<br />
+### Project output <br />
+To see project ouput, run ```npm run serve``` in the terminal.
 
-### Project output
-```
-To see project ouput, run npm run serve in the terminal.
-```
