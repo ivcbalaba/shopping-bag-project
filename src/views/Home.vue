@@ -16,7 +16,7 @@
         class="remove"
         @click="this.$store.dispatch('removeFromBag', product.id)">Remove from bag</button>
       </div>
-
+<h1>asda</h1>
     </div>
   </div>
 </template>
